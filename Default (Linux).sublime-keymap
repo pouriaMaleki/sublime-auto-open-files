@@ -1,0 +1,3 @@
+[
+  { "keys": ["ctrl+alt+s"], "command": "open_styl_with_ls" }
+]
